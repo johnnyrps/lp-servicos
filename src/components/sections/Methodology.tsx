@@ -123,10 +123,7 @@ const Methodology: React.FC = () => {
               </a>
             </div>
           </div>
-        </div><iframe
-  src="https://typebot.co/ag-ncia-aplica-es-automatik-labs-1-6475x4r"
-  style="border: none; width: 100%; height: 600px"
-></iframe>
+        </div>
       </Container>
     </section>
   );
